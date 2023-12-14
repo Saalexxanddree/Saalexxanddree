@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saalexxanddree&label=Profile%20views&color=0e75b6&style=flat" alt="saalexxanddree" /> </p>
 
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saalexxanddree" alt="saalexxanddree" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **mi primera pagina WEB**
